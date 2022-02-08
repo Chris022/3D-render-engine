@@ -10,8 +10,8 @@ Das Programm ist in Haskell mithilfe der 2D-Grafik Library Gloss umgesetzt. **An
 
 ### Screenshots:
 
-### <img src="C:\Users\Christoph Weberbauer\Documents\Chrisi\Programmieren\3DHaskellRenderEngine\screenshots\screenshot3DViewer1.png" alt="screenshot3DViewer1"  />
+### <img src="./screenshots/screenshot3DViewer1.png" alt="screenshot3DViewer1"  />
 
 
 
-![screenshot3DViewer2](C:\Users\Christoph Weberbauer\Documents\Chrisi\Programmieren\3DHaskellRenderEngine\screenshots\screenshot3DViewer2.png)
+![screenshot3DViewer2](./screenshots/screenshot3DViewer2.png)
